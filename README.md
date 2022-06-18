@@ -4,7 +4,8 @@
 
 [Website Link] (https://zserrano.github.io/challenge-01-refactor/)
 
-! [Deployed Website] 
+! [Deployed Website] ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/65681875/174423392-71dd2a46-70ea-4d47-a0f3-3940ebc07452.png)
+
 
 ## Description
 Refactoring the source code with semantic HTML elements, consolidated CSS code, and a proper structure for all elements.
