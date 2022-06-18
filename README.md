@@ -12,13 +12,13 @@ Refactoring the source code with semantic HTML elements, consolidated CSS code, 
 
 
 ## Alterations
-- Changed all div elements to proper semantic html elements for accessibility purposes.
-- Checked all indentation for html and css elements
+- Changed all div elements to proper semantic HTML elements for accessibility purposes.
+- Checked all indentation for HTML and CSS elements
 - Checked that all links in the nav bar send the user to the corresponding section
 - Consolidated CSS elements when applicable
-- Altered class elements in the html file based on CSS consolidation
-- Restructured the css elements based on specificity
-- Added proper tags to all html and css elements
+- Altered class elements in the HTML file based on CSS consolidation
+- Restructured the CSS elements based on specificity
+- Added proper tags to all HTML and CSS elements
 
 ## Contributors
 - Andrew E
