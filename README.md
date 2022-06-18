@@ -21,7 +21,7 @@ Refactoring the source code with semantic HTML elements, consolidated CSS code, 
 - Added proper tags to all html and css elements
 
 ## Contributors
-Andrew E
-Jeffrey L
-Austin M
-Kurt B
+- Andrew E
+- Jeffrey L
+- Austin M
+- Kurt B
