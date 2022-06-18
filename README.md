@@ -4,7 +4,7 @@
 
 [Website Link] (https://zserrano.github.io/challenge-01-refactor/)
 
-! [Deployed Website] ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/65681875/174423392-71dd2a46-70ea-4d47-a0f3-3940ebc07452.png)
+[Deployed Website] ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/65681875/174423392-71dd2a46-70ea-4d47-a0f3-3940ebc07452.png)
 
 
 ## Description
