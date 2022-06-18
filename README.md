@@ -18,7 +18,7 @@ Refactoring the source code with semantic HTML elements, consolidated CSS code, 
 - Consolidated CSS elements when applicable
 - Altered class elements in the HTML file based on CSS consolidation
 - Restructured the CSS elements based on specificity
-- Added proper tags to all HTML and CSS elements
+- Added proper comments to all HTML and CSS elements
 
 ## Contributors
 - Andrew E
