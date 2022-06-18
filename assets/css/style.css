@@ -1,0 +1,156 @@
+/* Universal Selector */
+* {
+    /* Set the box size, padding, and margin properties of the universal selector */
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* Body Element */
+body {
+    /* Set the background color of the body element */
+    background-color: #d9dcd6;
+}
+/* Anchor Element */
+a {
+    /* Set the color and type of text decoration if any */
+    color: #ffffff;
+    text-decoration: none;
+}
+/* Paragraph Element */
+p {
+    /* Set the font size of the paragraph */
+    font-size: 16px;
+}
+/* Header Class */
+.header {
+    /* Set the padding size, font family, background color, and general color */
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+/* H1 within the header Class */
+.header h1 {
+    /* Set the display type and font size of the h1 element */
+    display: inline-block;
+    font-size: 48px;
+}
+/* seo within the h1 element of the header Class */
+.header h1 .seo {
+    /* Set the color of the seo element */
+    color: #d9dcd6;
+}
+/* Nav element within the header Class */
+.header nav {
+    /* Set the padding size from the top, the margin thickness from the right border, the direction for the float of the box, the font family, and the font size of the nav element */
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+/* Ul element within the nav element of the header Class */
+.header nav ul {
+    /* Set the list style type */
+    list-style-type: none;
+}
+/* Li elements within the ul element within the nav element of the header Class */
+.header nav ul li {
+    /* Set the display type and the margin thickness from the left border */
+    display: inline-block;
+    margin-left: 25px;
+}
+/* Hero Class Element */
+.hero {
+    /* Set the height of the box, width of the box, margin thickness from the bottom border, the background image, the size of the background image, and the positioning of the background image */
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+/* Float-Left Class Element */
+.float-left {
+    /* Set the float direction for any box with this class and the thickness of the margin from the right border */
+    float: left;
+    margin-right: 25px;
+}
+/* Float-Right Class Element */
+.float-right {
+    /* Set the float direction for any box with this class and the thickness of the margin from the left border */
+    float: right;
+    margin-left: 25px;
+}
+/* Content Class Element */
+.content {
+    /* Set the width size, the display type, and the thickness of the margin from the left border */
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+/* Maincontent Class Element */
+.maincontent {
+    /* Set the thickness of the margin from the bottom border, the padding size, the height size, the font family, the background color, and the general color of the maincontent element */
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/* Img element within the maincontent class */
+.maincontent img {
+    /* Set the maximum height size for the img element */
+    max-height: 200px;
+}
+/* H2 element within the maincontent class */
+.maincontent h2 {
+    /* Set the thickness of the margin from the bottom border and the font size for the h2 element */
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* Benefits Class Element */
+.benefits {
+    /* Set the thickness of the margin from the right border, the padding size, the clear property, the float direction, the width and height sizes, the font family, and the background color for the benefits element */
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+/* Sidebar Class Element */
+.sidebar {
+    /* Set the margin thickness from the bottom border and the general color of the sidebar class element */
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+/* H3 element of the sidebar class */
+.sidebar h3 {
+    /* Set the margin thickness from the bottom border and the alignment style of the text within the h3 element */
+    margin-bottom: 10px;
+    text-align: center;
+}
+/* Img element of the sidebar class */
+.sidebar img {
+    /* Set the display type, margin thickness, and the maximum width of the img element */
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+/* Footer Class Element */
+.footer {
+    /* Set the padding size, clear property, font family, and the alignment of the text within the Footer Class */
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+/* H2 element of the footer class */
+.footer h2 {
+    /* Set the size of the font within h2 element */
+    font-size: 20px;
+}
